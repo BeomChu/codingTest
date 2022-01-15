@@ -1,5 +1,7 @@
 package level1;
 
+
+///다시해봐야겠넹 왜 주소값나오지
 public class Lotto {
     public static void main(String[] args) {
         Lotto a=new Lotto();
